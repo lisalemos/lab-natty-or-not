@@ -18,26 +18,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+### Template
+# PODCAST "ALIVIANDO A MENTE ANSIOSA";)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+    PODCAST DE MEDITAÇÃO GUIADA, ONDE O EPISÓDIO 1 SE CHAMA "A JORNADA DA PAZ INTERIOR". 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+CHAT GPT
+ELEVEN LABS
+CAPCUT
+MICROSOFT CREATE
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Escrevi o PROMPT no CHAT GPT do roteiro do PODCAST, assim: Você é um roteirista de podcast e vamos criar um roteiro de uma meditação mágica para manifestar a paz interior. O podcast se chama "aliviando a mente ansiosa". O público alvo são jovens entre 16 e 24 anos. 
+Depois escolhi a voz no ELEVEN LABS, e gerei o aúdio.
+Criei a capa do PODCAST no MICROSOFT CREATE porque no site indicado não tinha mais versão beta. 
+Juntei tudo no CAPCUT, a imagem de capa, o audio e incluí um som da natureza ao fundo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi gerado um episódio completo de PODCAST, com áudio, som de fundo, roteiro e capa, todas com IA Generativas. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
+Fiquei muito supresa com a qualidade que o CHAT GPT criou o roteiro. Muito semelhante a roteiros originais. 
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
